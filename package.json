@@ -4,16 +4,19 @@
   "description": "train",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scripts": "cypress run",
+    "test": "npm run scripts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://HyranD-P@bitbucket.org/HyranD-P/typescript-cypress.git"
+    "url": "https://github.com/Hyran681/cypress.git"
   },
   "author": "Hyran",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/HyranD-P/typescript-cypress#readme",
+  "homepage": "https://github.com/Hyran681/cypress.git",
   "devDependencies": {
-    "cypress": "^6.5.0"
+    "cypress": "^6.5.0",
+    "cypress-multi-reporters": "^1.2.4",
+    "mocha-junit-reporter": "^1.23.3"
   }
 }
