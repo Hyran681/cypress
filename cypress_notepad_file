@@ -1,0 +1,3 @@
+npm init - downloads the package json file
+
+cypress run --record --key c4597a85-998d-4270-a62d-cb6adc450d71
