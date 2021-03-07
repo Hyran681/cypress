@@ -4,7 +4,7 @@
   "description": "train",
   "main": "index.js",
   "scripts": {
-    "scripts": "cypress run",
+    "scripts": "cypress run --record --key c4597a85-998d-4270-a62d-cb6adc450d71",
     "test": "npm run scripts"
   },
   "repository": {

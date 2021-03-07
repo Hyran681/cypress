@@ -1,5 +1,6 @@
 {
   "projectId": "kpuggz",
+  "video": true,
   "reporter": "mocha-junit-reporter",
   "reporterOptions": {
   "mochaFile": "cypress/reports/junit/test-results.[hash].xml",
