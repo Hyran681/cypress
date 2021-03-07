@@ -1,0 +1,5 @@
+{
+  "email": "admin@yourstore.com",
+  "password": "admin",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}

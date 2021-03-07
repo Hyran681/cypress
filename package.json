@@ -1,0 +1,19 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "train",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://HyranD-P@bitbucket.org/HyranD-P/typescript-cypress.git"
+  },
+  "author": "Hyran",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/HyranD-P/typescript-cypress#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
